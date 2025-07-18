@@ -1,0 +1,23 @@
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# Build output
+dist/
+build/
+
+# Logs
+*.log
+npm-debug.log*
+
+# System/Editor files
+.DS_Store
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Coverage/test folders
+coverage/
